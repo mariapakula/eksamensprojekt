@@ -7,7 +7,7 @@
   position: fixed; /* Sticky/fixed navbar */
   width: 100%;
   top: 0; /* At the top */
-  z-index: 99; 
+  z-index: 99;
 }
 
 /* Style the navbar links */
@@ -17,7 +17,7 @@
   text-align: center;
   padding: 20px;
   text-decoration: none;
-  font-size: 15px; 
+  font-size: 15px;
   line-height: 25px;
   border-radius: 0px;
   font-family: verdana;
@@ -56,6 +56,12 @@
     float: none;
   }
 }
+
+
+.forsidebillede {
+  padding-top: 200px;
+}
+
 
 .hr1 {
     width: 95%;
