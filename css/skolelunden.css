@@ -60,7 +60,119 @@
 }
 
 
+/*MAP*/
 
+.map {
+    margin-top: 180px;
+}
+
+.tree1 {
+    position: relative;
+    top: -215px;
+    left: 30px;
+}
+
+.tree2 {
+    position: relative;
+    top: -285px;
+    left: -115px;
+}
+
+.tree3 {
+    position: relative;
+    top: -250px;
+    left: -210px;
+}
+
+.tree4 {
+    position: relative;
+    top: -215px;
+    left: -300px;
+}
+
+.tree5 {
+    position: relative;
+    top: -280px;
+    left: -450px;
+}
+
+.tree6 {
+    position: relative;
+    top: -250px;
+    left: -540px;
+}
+
+.tree7 {
+    position: relative;
+    top: -210px;
+    left: -635px;
+}
+
+.tree8 {
+    position: relative;
+    top: -280px;
+    left: -785px;
+}
+
+.tree9 {
+    position: relative;
+    top: -245px;
+    left: -880px;
+}
+
+.tree10 {
+    position: relative;
+    top: -410px;
+    left: 338px;
+}
+
+.tree11 {
+    position: relative;
+    top: -480px;
+    left: 200px;
+}
+
+.tree12 {
+    position: relative;
+    top: -440px;
+    left: 100px;
+}
+
+.tree13 {
+    position: relative;
+    top: -405px;
+    left: 5px;
+}
+
+.tree14 {
+    position: relative;
+    top: -480px;
+    left: -145px;
+}
+
+.tree15 {
+    position: relative;
+    top: -440px;
+    left: -240px;
+}
+
+.tree16 {
+    position: relative;
+    top: -400px;
+    left: -340px;
+}
+
+.tree17 {
+    position: relative;
+    top: -480px;
+    left: -485px;
+}
+
+.tree18 {
+    position: relative;
+    top: -440px;
+    left: -585px;
+}
 
 .hr1 {
     width: 95%;
