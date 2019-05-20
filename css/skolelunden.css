@@ -5,7 +5,7 @@
   padding: 60px 10px; /* Large padding which will shrink on scroll (using JS) */
   transition: 0.4s; /* Adds a transition effect when the padding is decreased */
   position: fixed; /* Sticky/fixed navbar */
-  width: 100%;
+  width: 97.5%;
   top: 0; /* At the top */
   z-index: 99;
 }
@@ -17,7 +17,11 @@
   text-align: center;
   padding: 20px;
   text-decoration: none;
+<<<<<<< HEAD
   font-size: 15px;
+=======
+  font-size: 14px; 
+>>>>>>> 7995a0648b38e0213243674c4b033f24cee13d7b
   line-height: 25px;
   border-radius: 0px;
   font-family: verdana;
