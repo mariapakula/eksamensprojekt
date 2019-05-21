@@ -17,9 +17,7 @@
   text-align: center;
   padding: 20px;
   text-decoration: none;
-  font-size: 15px;
-  font-size: 14px;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 25px;
   border-radius: 0px;
   font-family: verdana;
@@ -185,110 +183,128 @@
 
 .tree1 {
     position: relative;
-    top: -215px;
+    top: -220px;
     left: 30px;
+    width: 5%;
 }
 
 .tree2 {
     position: relative;
-    top: -285px;
-    left: -115px;
+    top: -280px;
+    left: -40px;
+    width: 5%;
 }
 
 .tree3 {
     position: relative;
     top: -250px;
-    left: -210px;
+    left: -65px;
+    width: 5%;
 }
 
 .tree4 {
     position: relative;
-    top: -215px;
-    left: -300px;
+    top: -220px;
+    left: -95px;
+    width: 5%;
 }
 
 .tree5 {
     position: relative;
-    top: -280px;
-    left: -450px;
+    top: -285px;
+    left: -165px;
+    width: 5%;
 }
 
 .tree6 {
     position: relative;
     top: -250px;
-    left: -540px;
+    left: -195px;
+    width: 5%;
 }
 
 .tree7 {
     position: relative;
-    top: -210px;
-    left: -635px;
+    top: -215px;
+    left: -230px;
+    width: 5%;
 }
 
 .tree8 {
     position: relative;
-    top: -280px;
-    left: -785px;
+    top: -290px;
+    left: -300px;
+    width: 5%;
 }
 
 .tree9 {
     position: relative;
-    top: -245px;
-    left: -880px;
+    top: -250px;
+    left: -330px;
+    width: 5%;
 }
 
 .tree10 {
     position: relative;
-    top: -410px;
-    left: 338px;
+    top: -210px;
+    left: -355px;
+    width: 5%;
 }
 
 .tree11 {
     position: relative;
-    top: -480px;
-    left: 200px;
+    top: -280px;
+    left: -430px;
+    width: 5%;
 }
 
 .tree12 {
     position: relative;
-    top: -440px;
-    left: 100px;
+    top: -250px;
+    left: -450px;
+    width: 5%;
 }
 
 .tree13 {
     position: relative;
-    top: -405px;
-    left: 5px;
+    top: -210px;
+    left: -480px;
+    width: 5%;
 }
 
 .tree14 {
     position: relative;
-    top: -480px;
-    left: -145px;
+    top: -280px;
+    left: -545px;
+    width: 5%;
 }
 
 .tree15 {
     position: relative;
-    top: -440px;
-    left: -240px;
+    top: -240px;
+    left: -580px;
+    width: 5%;
 }
 
 .tree16 {
     position: relative;
-    top: -400px;
-    left: -340px;
+    top: -200px;
+    left: -610px;
+    width: 5%;
 }
 
 .tree17 {
     position: relative;
-    top: -480px;
-    left: -485px;
+    top: -280px;
+    left: -685px;
+    width: 5%;
 }
 
 .tree18 {
     position: relative;
-    top: -440px;
-    left: -585px;
+    top: -240px;
+    left: -710px;
+    width: 5%;
 }
 
 .hr1 {
@@ -297,6 +313,33 @@
     border: none;
 }
 
+/*CARD*/
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 30%;
+  position: relative;
+  top: -550px;
+  left: 500px;
+  font-family: verdana;
+  text-align: center;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+  background: white;
+}
+
+
+/*FOOTER*/
 
 .footer {
     text-align: center;
