@@ -351,6 +351,14 @@
     margin-right: 31%;
 }
 
+.infopopup {
+    width: 4%;
+    position: relative;
+    float: right;
+    top: -740px;
+    margin-right: 15px;
+}
+
 
 /*FOOTER*/
 
