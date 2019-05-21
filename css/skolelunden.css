@@ -152,7 +152,10 @@
 
 .map {
     margin-top: 180px;
+}
 
+.map1{
+    margin-bottom: -330px;
 }
 
 .tree1 {
@@ -160,7 +163,6 @@
     top: -220px;
     left: 30px;
     width: 5%;
-
 }
 
 .tree2 {
@@ -285,9 +287,10 @@
 }
 
 .hr1 {
-    width: 95%;
+    width: 100%;
     background-color: #3f5b58;
     border: none;
+    margin-top: -77px;
 }
 
 /*CARD*/
@@ -298,7 +301,7 @@
   transition: 0.3s;
   width: 30%;
   position: relative;
-  top: -550px;
+  top: -200px;
   left: 500px;
   font-family: verdana;
   text-align: center;
@@ -320,7 +323,7 @@
     width: 2%;
     height: 2%;
     position: relative;
-    top: -600px;
+    top: -240px;
     float: right;
     margin-right: 31%;
 }
