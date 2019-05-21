@@ -365,3 +365,23 @@
 .footer a {
     color: #000000;
 }
+
+/* FOOTER TIL FORSIDEN */
+
+.hr3 {
+    width: 100%;
+    background-color: #3f5b58;
+    border: none;
+    }
+
+.foooter {
+    text-align: center;
+    font-family: verdana;
+    background-color: #f1f1f1;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.foooter a {
+    color: #000000;
+}
