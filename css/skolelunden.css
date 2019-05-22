@@ -183,43 +183,6 @@
   padding: 20px;
 }
 
-.hr6 {
-  width: 100%;
-  background-color: #3f5b58;
-  border: none;
-}
-
-.nyhedbillede {
-  margin-left: 37px;
-  margin-top: -200px;
-  margin-bottom: 50px;
-}
-
-.nyhedtekst1 {
-  text-align: left;
-  float: right;
-  font-size: 30px;
-  font-family: verdana;
-  font-weight: bold;
-}
-
-.nyhedtekst2 {
-  text-align: left;
-  float: right;
-  font-family: verdana;
-  padding-left: 400px;
-  padding-right: 200px;
-  font-size: 12px;
-}
-
-
-.nyhedtekst3 {
-  text-align: left;
-  float: right;
-  padding-left: 800px;
-  font-family: verdana;
-}
-
 
 /*MAP*/
 
