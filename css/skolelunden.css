@@ -367,7 +367,7 @@
   transition: 0.3s;
   width: 30%;
   position: relative;
-  top: -500px;
+  top: -650px;
   left: 500px;
   font-family: verdana;
   text-align: center;
@@ -391,7 +391,7 @@
     width: 2%;
     height: 2%;
     position: relative;
-    top: -540px;
+    top: -690px;
     float: right;
     margin-right: 32%;
 }
