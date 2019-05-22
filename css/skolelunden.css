@@ -170,6 +170,18 @@
   top: 20%;
 }
 
+.billedetekst1 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.billedetekst2 {
+  padding: 20px;
+}
+
+.billedetekst3 {
+  padding: 20px;
+}
 
 /*MAP*/
 
@@ -401,7 +413,7 @@
     width: 20%;
     margin-top: -15px;
     background-color: #3f5b58;
-    
+
 }
 
 
