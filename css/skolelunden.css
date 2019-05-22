@@ -183,6 +183,20 @@
   padding: 20px;
 }
 
+.hr6 {
+  width: 100%;
+  background-color: #3f5b58;
+  border: none;
+}
+
+.nyhedtekst1 {
+  text-align: right;
+  font-size: 30px;
+}
+
+
+
+
 /*MAP*/
 
 .map {
